@@ -1,0 +1,34 @@
+#: locale=es
+
+## Media
+
+### Imágen
+imlevel_74163313_54B6_193E_41C8_C213311216AF.url = media/popup_746902C2_54B1_FB1E_41CB_067C5C360FD1_es_0_0.webp
+imlevel_74162313_54B6_193E_41C5_02F32A4E9C19.url = media/popup_746902C2_54B1_FB1E_41CB_067C5C360FD1_es_0_1.webp
+imlevel_74160313_54B6_193E_41C0_B746038A1DC2.url = media/popup_746902C2_54B1_FB1E_41CB_067C5C360FD1_es_0_2.webp
+
+### Popup Imágen
+
+### Título
+panorama_4FCA2FEC_54F2_08EA_41C9_60CFB5CB3E55.label = 09bc51c7-2cbb-4f0a-8a21-a1c9928bc9ce-pano-me6
+panorama_4F91FD87_5492_0926_41CF_6B0637F918C5.label = 377f6373-00d6-4d3f-9c10-bb52a8f662e6-pano-me6
+panorama_42F25B2E_54B2_0966_41CA_00973AF046C0.label = 8f16dff9-8e48-4776-8fde-7009389562f8-pano-me6
+panorama_4F3E51D5_54F2_F93A_41D1_17193E248718.label = 94f5dc2a-c71e-4c7f-ab93-da8ab3be3b93-pano-me6
+panorama_4811ED20_549E_091A_41CC_D56B35DDF416.label = 9a6da64b-d862-4fb2-aebd-7c6f48edf78b-pano-me6
+album_49729EEC_5496_08EA_41CE_F434D8B0F1E7_0.label = cuadro_real
+panorama_40019DA7_54B2_0966_41C2_9B3BC0080AFB.label = f535e401-9867-4cf3-babf-9ecb7d6bfa1c-pano-me6
+photo_4B2F04E9_5492_F8EA_41C3_62118C32997E.label = plano_cocina
+photo_4B2F04E9_5492_F8EA_41C3_62118C32997E.label = plano_cocina
+photo_495D0670_5492_FBFA_4196_B85A9254624A.label = plano_dormitorio
+photo_495D0670_5492_FBFA_4196_B85A9254624A.label = plano_dormitorio
+photo_49A0278D_5492_F92A_419C_8B251F9E2516.label = plano_pasillo
+photo_49A07898_5492_F72A_41C4_4B469950F22C.label = plano_salon
+photo_49A07898_5492_F72A_41C4_4B469950F22C.label = plano_salon
+album_49729EEC_5496_08EA_41CE_F434D8B0F1E7.label = Álbum de Fotos cuadro_real
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Sin Título 1
